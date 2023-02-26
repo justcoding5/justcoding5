@@ -21,7 +21,6 @@
 
 <b>
 <div align="left">
-
 - 🔭 I’m currently working on Full Stack Development  
 
 - 🌱 I’m currently learning Android Development   
