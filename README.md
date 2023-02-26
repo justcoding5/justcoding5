@@ -18,12 +18,11 @@
 
 <br/> 
 <img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="230" width="390" /> 
-
 <b>
 <div align="left">
  - 🔭 I’m currently working on Full Stack Development  
 
-- 🌱 I’m currently learning Android Development   
+- 🌱 I’m currently learning Software Development   
   
 
 - ❓ Ask me about anything related to Full stack and related technologies  
