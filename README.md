@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
- <div align="center"><h1 style="border:2px solid Tomato;">Hi, I am Hemanta🚀</h1><div align="center">
+ <b><div align="center"><h1 style="border:2px solid Tomato;">Hi, I am Hemanta🚀</h1><div align="center"></b>
 </div>
  
 <br/>  
@@ -22,12 +22,12 @@
 <b>
 <div align="left">
 
-- 🔭 I’m currently working on Web Development   
+- 🔭 I’m currently working on Full Stack Development  
 
 - 🌱 I’m currently learning Android Development   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Full stack and related technologies  
   
  
 - 🤩I’m looking for a good project  
