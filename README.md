@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" /> 
 
 <br/> 
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="230" width="390" /> 
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="230" width="350" /> 
 <b>
 <div align="left">
  - 🔭 I’m currently working on Full Stack Development  
