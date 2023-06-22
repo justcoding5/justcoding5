@@ -20,7 +20,7 @@
 <img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="230" width="350" /> 
 <b>
 <div align="left">
- - 🔭 I’m currently working on Front End Development  
+  - 🔭 I’m currently working on Front End Development  
 
 - 🌱 I’m currently learning Data Science   
   
