@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif"](https://tenor.com/view/welcome-gif-25598456) align="left" height="120" width="1000" />  
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47g2tgvn1a88bkbeui7z46rcp6h27bdow1w8jtoto3&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="left" height="300" width="1000" />  
 <br/> 
 <br/>
 <br/>
