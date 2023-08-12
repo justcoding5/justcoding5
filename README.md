@@ -53,6 +53,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
@@ -61,12 +62,13 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt=tailwind width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="Ms-Word" width="60" height="40"/></a>
-<a href="microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Ms-Excel" width="40" height="40"/></a>
-
-
- 
+<a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="Ms-Word" width="80" height="40"/></a>
+<a href="microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Ms-Excel" width="50" height="40"/></a>
 </p>
+
+
+
+
 <h3 align="left">Support:</h3><img src="https://giffiles.alphacoders.com/215/215919.gif" align="left" height="50" width="50" />  
 <p><a href="https://www.buymeacoffee.com/hhemanta35p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hhemanta35p" /></a></p><br><br>
 <br/>  
