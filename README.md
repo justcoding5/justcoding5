@@ -63,7 +63,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/></a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Logo.png" alt="Ms-Word" width="80" height="40" title="Word"/></a>
-<a href="microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Ms-Excel" width="50" height="40" title="Exe"/></a>
+<a href="microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Ms-Excel" width="50" height="40" title="Excel"/></a>
 </p>
 
 
