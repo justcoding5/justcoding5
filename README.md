@@ -46,11 +46,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
 <a href="https://www.facebook.com/profile.php?id=100093836979650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coding-with-hemanta-107518035381245" height="30" width="40" title="Facebook"/></a>
-<a href="https://linkedin.com/in/hemanta-hembram-519220217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanta-hembram-519220217" height="30" width="40" title="LinkedIn"/></a>
-<a href="https://instagram.com/coding_with_hemanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_hemanta" height="30" width="40" title="Instagram"/></a>
- <a href="https://twitter.com/hhemanta355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhemanta355" height="30" width="40" title="Twitter"/></a>
-<a href="https://www.codechef.com/users/hemu55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemu55" height="30" width="40" title="Codechef"/></a>
-<a href="https://discord.gg/svnbvnqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svnbvnqa" height="30" width="40" title="Discord" /></a>
+<a href="https://www.linkedin.com/in/hemanta-hembram-36b420249/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanta-hembram-519220217" height="30" width="40" title="LinkedIn"/></a>
+<a href="https://www.instagram.com/coding_with_hemanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_hemanta" height="30" width="40" title="Instagram"/></a>
+ <a href="https://twitter.com/hem56423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhemanta355" height="30" width="40" title="Twitter"/></a>
+<a href="https://www.codechef.com/users/hemu5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemu55" height="30" width="40" title="Codechef"/></a>
+<a href="https://discord.gg/svnbv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svnbvnqa" height="30" width="40" title="Discord" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
