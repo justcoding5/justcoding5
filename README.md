@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Data Science   
   
 
-- ❓ Ask me about anything related to Front End Development
+- ❓ Ask me about anything related to Front End Web Development
   
  
 - 🤩I’m looking for a good project  
