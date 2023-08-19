@@ -22,7 +22,7 @@
 <b>
 <div align="left">
  
-- 🔭 I’m currently working on Front End Development  
+- 🔭 I’m currently working on Front End Web Development  
 
 - 🌱 I’m currently learning Data Science   
   
