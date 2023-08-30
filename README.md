@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" /> 
 
 <br/> 
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="230" width="350" /> 
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="200" width="300" /> 
 <b>
 <div align="left">
  
