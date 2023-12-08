@@ -55,7 +55,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png" alt="Django" width="40" height="40" title="Django"/></a>
+<a href="https://www.w3schools.com/django/" target="_blank"><img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png" alt="Django" width="40" height="40" title="Django"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40" title="HTML5"/></a>  
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/></a>  
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap5" width="40" height="40" title="Bootstrap5"/></a>
